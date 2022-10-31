@@ -32,8 +32,10 @@ Currently, an in-memory database (H2-db) is used for the service which is for lo
    ```
 
 ### Sources for API Documentation
-- The documentation for the APIs as a swagger-ui html page APIs available at (http://localhost:8080/swagger-ui.html)
-- The documentation for the APIs in OpenAPI json format APIs available at (http://localhost:8080/v3/api-docs)
+- The documentation for the APIs as a swagger-ui html page APIs available at
+http://localhost:8080/swagger-ui.html
+- The documentation for the APIs in OpenAPI json format APIs available at
+http://localhost:8080/v3/api-docs
 
 ### Steps for production deployment the service
 - A relational database such as PostgreSQL or MySQL needs to be provisioned for the service
